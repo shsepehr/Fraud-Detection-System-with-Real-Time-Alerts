@@ -1,0 +1,11 @@
+transaction_id,amount,time,location,card_type,is_fraud
+1,120,14:22,Tehran,Debit,0
+2,9800,02:15,London,Credit,1
+3,340,09:41,New York,Debit,0
+4,12500,03:28,Kermanshah,Credit,1
+5,75,18:10,Dubia,Credit,1
+6,215,16:20,Paris,Debit,0
+7,8600,01:31,Istanbul,Credit,1
+8,50,16:02,Madrid,Credit,1
+9,3000,21:44,Berlin,Debit,0
+10,110,10:20,Perth,Credit,1
